@@ -5,3 +5,4 @@
 .vscode*
 # 数据集太大了
 dataset
+logs
